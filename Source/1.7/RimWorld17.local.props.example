@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <!-- Point to your RimWorld 1.7 game installation. -->
+    <RimWorld17GameDir>C:\Games\RimWorld_1_7</RimWorld17GameDir>
+    <!-- Path to Harmony 3's 0Harmony.dll for RimWorld 1.7. -->
+    <Harmony17DllPath>C:\Games\Harmony_1_7\0Harmony.dll</Harmony17DllPath>
+  </PropertyGroup>
+</Project>

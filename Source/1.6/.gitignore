@@ -1,0 +1,7 @@
+.vs/
+**/bin/
+**/obj/
+*.suo
+*.user
+RimWorld.local.props
+*.local.props

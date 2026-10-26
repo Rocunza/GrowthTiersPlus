@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GTP_RestartRequired>성장 티어 설정 변경은 림월드를 재시작한 뒤 적용됩니다.</GTP_RestartRequired>
+  <GTP_Diagnostics>진단</GTP_Diagnostics>
+  <GTP_DebugLogging>상세 디버그 로그 사용 (기본값: 꺼짐)</GTP_DebugLogging>
+  <GTP_DebugRestart>성장 티어 자체검사를 다시 실행하려면 림월드를 재시작하세요.</GTP_DebugRestart>
+  <GTP_Tier9>성장 티어 9</GTP_Tier9>
+  <GTP_EnableTier9>성장 티어 9 활성화</GTP_EnableTier9>
+  <GTP_GrowthPointsRequired>필요 성장 점수</GTP_GrowthPointsRequired>
+  <GTP_PassionGainsMin>열정 획득 최소 개수</GTP_PassionGainsMin>
+  <GTP_PassionGainsMax>열정 획득 최대 개수</GTP_PassionGainsMax>
+  <GTP_PassionChoices>열정 선택지 개수</GTP_PassionChoices>
+  <GTP_TraitChoices>특성 선택지 개수</GTP_TraitChoices>
+  <GTP_Tier10>성장 티어 10</GTP_Tier10>
+  <GTP_EnableTier10>성장 티어 10 활성화</GTP_EnableTier10>
+  <GTP_EnableTier10Requires9>성장 티어 10 활성화 (티어 9 필요)</GTP_EnableTier10Requires9>
+</LanguageData>

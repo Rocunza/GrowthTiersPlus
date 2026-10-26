@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GTP_RestartRequired>Growth tier changes take effect after restarting RimWorld.</GTP_RestartRequired>
+  <GTP_Diagnostics>Diagnostics</GTP_Diagnostics>
+  <GTP_DebugLogging>Enable verbose debug logging (default OFF)</GTP_DebugLogging>
+  <GTP_DebugRestart>Restart RimWorld to rerun growth-tier self-tests.</GTP_DebugRestart>
+  <GTP_Tier9>Tier 9</GTP_Tier9>
+  <GTP_EnableTier9>Enable Tier 9</GTP_EnableTier9>
+  <GTP_GrowthPointsRequired>Growth points required</GTP_GrowthPointsRequired>
+  <GTP_PassionGainsMin>Passion gains minimum</GTP_PassionGainsMin>
+  <GTP_PassionGainsMax>Passion gains maximum</GTP_PassionGainsMax>
+  <GTP_PassionChoices>Passion choices</GTP_PassionChoices>
+  <GTP_TraitChoices>Trait choices</GTP_TraitChoices>
+  <GTP_Tier10>Tier 10</GTP_Tier10>
+  <GTP_EnableTier10>Enable Tier 10</GTP_EnableTier10>
+  <GTP_EnableTier10Requires9>Enable Tier 10 (requires Tier 9)</GTP_EnableTier10Requires9>
+</LanguageData>

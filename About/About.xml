@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Growth Tiers Plus</name>
+  <author>ZCN</author>
+  <packageId>zcn.growthtiersplus</packageId>
+
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+
+  <description>
+[English]
+
+Adds customizable growth tiers 9 and 10 for children.
+
+Configure growth point requirements, minimum and maximum passion gains, passion choices, and trait choices.
+
+Note: Growth tiers 1–8 remain unchanged and cannot be customized by this mod.
+
+[한국어]
+
+아동 성장 티어 9와 10을 추가합니다.
+
+필요 성장 점수, 최소·최대 열정 획득 개수, 열정 선택지 개수 및 특성 선택지 개수를 설정할 수 있습니다.
+
+참고: 기존 성장 티어 1~8은 바닐라 설정을 그대로 유지하며, 이 모드로 변경할 수 없습니다.
+  </description>
+
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.RimWorld.Biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+</ModMetaData>
